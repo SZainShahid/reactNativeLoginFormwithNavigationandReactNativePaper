@@ -1,0 +1,12 @@
+{
+  "name": "zainProject",
+  "displayName": "zainProject",
+  "expo": {
+    "name": "zainProject",
+    "slug": "zainProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
